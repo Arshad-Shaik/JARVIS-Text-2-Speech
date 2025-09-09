@@ -1,4 +1,4 @@
-# 🗣️ | JARVIS Text-to-Speech Converter |
+# 🗣️ | JARVIS Text-2-Speech Converter |
 
 <div align="center"> <img src="https://media3.giphy.com/media/wkSyGueYTnk40/giphy.webp" alt="JARVIS TTS Demo" width="400"/> </div>
 
