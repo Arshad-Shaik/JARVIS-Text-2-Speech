@@ -1,7 +1,5 @@
 # 🗣️ | JARVIS Text-2-Speech Converter |
 
-<div align="center"> <img src="https://media3.giphy.com/media/wkSyGueYTnk40/giphy.webp" alt="JARVIS TTS Demo" width="400"/> </div>
-
 A dynamic and interactive Python GUI application built with Tkinter that converts text into natural, customizable speech. This project mimics an AI assistant interface, offering users control over voice gender and speech rate for a personalized experience.
 
 ## 📖 Situation-Task-Action-Result (STAR Method)
