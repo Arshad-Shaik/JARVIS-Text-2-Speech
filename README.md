@@ -17,6 +17,13 @@ Enhanced UI/UX with custom icons, combo boxes for settings, and a clean layout f
 
 **Result:** Successfully delivered a fully functional and aesthetically pleasing desktop application that serves as an effective tool for generating high-quality, customizable speech from text, demonstrating strong skills in GUI development and Python programming.
 
+## 🎥 Execution 
+
+
+https://github.com/user-attachments/assets/e4971852-b60a-4c0b-9859-89bd7e8f5b9b
+
+
+
 ## 🛠️ Technologies Used
 Programming Language: Python
 GUI Framework: Tkinter
@@ -43,10 +50,17 @@ playsound
 **Run the application:**
 python jarvis.py
 
-🖥️ Usage
+## 🖥️ Usage
 Launch the application to view the animated JARVIS interface.
 Type or paste your desired text into the main text box.
 Select your preferred voice Gender (Male/Female).
 Select your preferred Speed (Turbo/Average/Unrushed).
 Click the Play button to hear your text spoken aloud.
 
+## 📸 Screenshots
+
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/3b944c03-7ea8-4a41-9ac1-7359a14dd485" />
+
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/fc047874-f36f-4f79-91b6-902596ef6402" />
+
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/409be3f3-63d4-4cfd-969c-9cf05b344d83" />
