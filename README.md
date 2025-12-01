@@ -13,12 +13,17 @@ https://github.com/user-attachments/assets/e4971852-b60a-4c0b-9859-89bd7e8f5b9b
 
 
 ## 🛠️ Technologies Used
-Programming Language: Python
-GUI Framework: Tkinter
-Text-to-Speech Engine: pyttsx3
-Image Handling: PIL (Pillow)
-HTTP Requests: requests
-Audio Playback: playsound
+**Programming Language**: Python
+
+**GUI Framework**: Tkinter
+
+**Text-to-Speech Engine**: pyttsx3
+
+**Image Handling**: PIL (Pillow)
+
+**HTTP Requests**: requests
+
+**Audio Playback**: playsound
 
 ## ⚙️ Installation & Setup
 
@@ -40,9 +45,13 @@ python jarvis.py
 
 ## 🖥️ Usage
 Launch the application to view the animated JARVIS interface.
+
 Type or paste your desired text into the main text box.
+
 Select your preferred voice Gender (Male/Female).
+
 Select your preferred Speed (Turbo/Average/Unrushed).
+
 Click the Play button to hear your text spoken aloud.
 
 ## 📸 Screenshots
